@@ -118,6 +118,8 @@ const overlay = document.querySelector('.overlay');
     const vmessage4 = document.getElementById('message4').innerHTML;
     const vmessage5 = document.getElementById('message5').innerHTML;
     const vmessage6 = document.getElementById('message6').innerHTML;
+    const vmessage7 = document.getElementById('message7').innerHTML;
+
     messageC.innerHTML = "";
     
     function katanimasiAlts(){
