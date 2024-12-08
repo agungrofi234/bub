@@ -131,6 +131,8 @@ const overlay = document.querySelector('.overlay');
                     "<br>" + vmessage4,
                     "<br>" + vmessage5,
                     "<br>" + vmessage6,
+                    "<br>" + vmessage7,
+
 				 ],
         startDelay: 1,
         speed: 26,
