@@ -119,6 +119,7 @@ const overlay = document.querySelector('.overlay');
     const vmessage5 = document.getElementById('message5').innerHTML;
     const vmessage6 = document.getElementById('message6').innerHTML;
     const vmessage7 = document.getElementById('message7').innerHTML;
+    const vmessage8 = document.getElementById('message8').innerHTML;
 
     messageC.innerHTML = "";
     
@@ -132,6 +133,7 @@ const overlay = document.querySelector('.overlay');
                     "<br>" + vmessage5,
                     "<br>" + vmessage6,
                     "<br>" + vmessage7,
+		    "<br>" + vmessage8,
 
 				 ],
         startDelay: 1,
